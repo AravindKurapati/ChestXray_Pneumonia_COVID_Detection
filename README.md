@@ -42,8 +42,8 @@ The models were trained and validated on three publicly available chest X-ray da
 - **AlexNet**  
 - **InceptionV3**  
 - **ResNet50**  
-- **VGG19**  
-➡ Each model was fine-tuned with additional dense layers (e.g., 1024, 512 neurons) for improved classification.
+- **VGG19**
+   Each model was fine-tuned with additional dense layers (e.g., 1024, 512 neurons) for improved classification.
 
 ###  Proposed Custom CNN
 - 4 Convolutional layers (filters: 32, 64, 64, 128)
