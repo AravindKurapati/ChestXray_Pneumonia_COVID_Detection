@@ -4,7 +4,7 @@
 
 This project implements a deep learning-based solution for detecting **Pneumonia and COVID-19** from chest X-ray images. It builds upon both a **custom CNN architecture** and **transfer learning** using pre-trained models such as AlexNet, InceptionV3, ResNet50, and VGG19. The results and methodology of this project were published in a peer-reviewed paper:
 
- **[Read the published paper on ResearchGate](https://www.researchgate.net/publication/364821917_Detection_of_Pneumonia_and_COVID-19_from_Chest_X-Ray_Images_Using_Neural_Networks_and_Deep_Learning)**  
+ **[Published paper on ResearchGate](https://www.researchgate.net/publication/364821917_Detection_of_Pneumonia_and_COVID-19_from_Chest_X-Ray_Images_Using_Neural_Networks_and_Deep_Learning)**  
  Authors: Jeet Santosh Nimbhorkar, Kurapati Sreenivas Aravind, K Jeevesh, Suja Palaniswamy
 
 ---
@@ -83,7 +83,7 @@ The models were trained and validated on three publicly available chest X-ray da
 | COVID+Pneu   | InceptionV3 (2048)    | **94.25**    |
 | COVID Radiog.| InceptionV3 (original)| **84.32**    |
 
-➡ Our custom CNN achieved **competitive performance** with significantly **fewer trainable parameters** than pre-trained models.
+Our custom CNN achieved **competitive performance** with significantly **fewer trainable parameters** than pre-trained models.
 
 ---
 
